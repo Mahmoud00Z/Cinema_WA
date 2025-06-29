@@ -1,3 +1,3 @@
 <?php
 
-require_once(__DIR__ . '/Cinema_server/connection/connection.php');
+require_once(__DIR__ . '/../connection/connection.php');
